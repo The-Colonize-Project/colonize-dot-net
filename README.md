@@ -1,2 +1,1 @@
-colonize-dot-net
-================
+The colonize-dot-net project is an attempt to clone the original Sid Meier's Colonization game from 1994 into a touch-friendly interface intended for mobile devices and multiplayer. The first phase of the project will be a faithful attempt at recreating the original game, with more features and expansions to come later!
